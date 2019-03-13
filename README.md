@@ -2,18 +2,18 @@
 
 1.0 Brainstorming #1  
 ------
-    ###Current Student  
+    Current Student  
       ---1.jpg  
       ---2.jpg  
       ---3.jpg  
       ---4.jpg  
       ---5.jpg  
       ---6.jpg  
-    ---Future Student  
+    Future Student  
       ---1.jpg  
       ---2.jpg  
       ---3.jpg  
-    ---Parents  
+    Parents  
       ---1.jpg  
       ---2.jpg  
       ---3.jpg  
