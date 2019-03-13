@@ -1,5 +1,4 @@
 # Milestone2
-====
 
 1.0 Brainstorming #1  
     ---Current Student  
