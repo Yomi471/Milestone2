@@ -1,7 +1,9 @@
 # Milestone2
+=====
 
-#1.0 Brainstorming #1  
-    ##---Current Student  
+1.0 Brainstorming #1  
+------
+    ---Current Student  
       ---1.jpg  
       ---2.jpg  
       ---3.jpg  
